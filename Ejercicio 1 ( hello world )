@@ -1,0 +1,2 @@
+Saludo="¡Hello world!"
+Print(Saludo)
